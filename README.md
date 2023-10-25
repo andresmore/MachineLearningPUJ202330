@@ -6,3 +6,6 @@ Repository for the notebooks for the PUJ Machine Learning course for the 202330 
 
 ## Workshop 1.2 - Logistic Regression
 [Logistic regression notebook](notebooks/Machine_Learning_Workshop_1_2_Logistic_regression.ipynb)
+
+## Workshop 2 - Feed forward neural networks
+[Neural Networks workshop](Machine_Learning_Workshop_2_Feed_forward_neural_networks.ipynb)
