@@ -9,3 +9,6 @@ Repository for the notebooks for the PUJ Machine Learning course for the 202330 
 
 ## Workshop 2 - Feed forward neural networks
 [Neural Networks workshop](notebooks/Machine_Learning_Workshop_2_Feed_forward_neural_networks.ipynb)
+
+## Workshop 3 - SVM
+[Support vector machine workshop](notebooks/Machine_Learning_Workshop_3_SVM_classification.ipynb)
