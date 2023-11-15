@@ -12,3 +12,6 @@ Repository for the notebooks for the PUJ Machine Learning course for the 202330 
 
 ## Workshop 3 - SVM
 [Support vector machine workshop](notebooks/Machine_Learning_Workshop_3_SVM_classification.ipynb)
+
+## Workshop 4 - PCA
+[PCA workshop](notebooks/Machine_Learning_Workshop_4_PCA.ipynb)
